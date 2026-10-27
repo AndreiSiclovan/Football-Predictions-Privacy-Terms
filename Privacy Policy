@@ -1,0 +1,93 @@
+**Privacy Policy**
+
+Last updated: October 27, 2026
+
+FootPred respects your privacy. This Privacy Policy explains what information is collected when you use the FootPred mobile application, how it is used, and the choices you have.
+
+FootPred provides football predictions and analysis for information only. It does not take bets or handle your money, and it is not responsible for how you spend or bet your money. See the Terms of Use for details.
+
+## 1. No Account Needed
+
+FootPred does not require an account. We do not ask for your name, email address or phone number to use the app.
+
+## 2. Information We Collect
+
+### Usage Data
+
+To understand how the app is used and to improve it, we collect limited usage information through Firebase Analytics, such as:
+
+* Screens viewed and buttons tapped in the app
+* Device type, operating system and app version
+* Approximate country (derived from your connection, not your precise location)
+* A random app-instance identifier that is not linked to your identity
+
+### Crash Data
+
+If the app crashes, we receive a crash report through Firebase Crashlytics. It contains technical information such as the device model, operating system version and the state of the app at the time of the crash.
+
+### Purchases and Subscriptions
+
+Subscriptions are purchased and billed by Apple through your Apple ID. We never receive your payment details. We use Superwall to show subscription offers and to know whether your subscription is active. Superwall receives information about your purchases and subscription status, together with basic device and app information.
+
+### App Integrity
+
+We use Firebase App Check with Apple's App Attest to confirm that requests come from the genuine FootPred app. This does not identify you personally.
+
+### Information Stored on Your Device
+
+Your settings, such as your monthly budget and notification preference, are stored only on your device.
+
+### Notifications
+
+If you turn on the daily reminder, it is scheduled on your device. We do not use your notification settings to identify you.
+
+## 3. How We Use Information
+
+We use the information above to:
+
+* Provide the Service, including tips, tickets and match analysis
+* Unlock Pro features for subscribers
+* Understand which features are used and improve the app
+* Find and fix crashes and technical problems
+
+We do not sell your personal data, we do not show third-party ads, and we do not track you across other companies' apps or websites.
+
+## 4. Third-Party Services
+
+FootPred relies on the following services, which process data on our behalf under their own privacy policies:
+
+* Google Firebase (Firestore, Analytics, Crashlytics, App Check)
+* Superwall (subscription offers and status)
+* Apple (App Store purchases, App Attest)
+
+## 5. Data Security
+
+We implement reasonable security measures to protect information. However, no internet transmission or storage system can be guaranteed to be completely secure.
+
+## 6. Data Retention
+
+Usage and crash data are kept only as long as needed to analyse and improve the app, within the retention periods of the services listed above. Settings stored on your device are removed when you delete the app.
+
+## 7. Your Rights
+
+Depending on your jurisdiction, you may have the right to:
+
+* Access the data we hold about you
+* Request correction or deletion of your data
+* Object to or restrict certain processing
+
+Because we do not collect your name or email, we may need information from you (such as your app-instance details) to find your data. You can contact us to make a request.
+
+## 8. Age Restriction
+
+FootPred is intended only for users aged 18 or older. We do not knowingly collect data from anyone under 18.
+
+## 9. Changes to this Policy
+
+We may update this Privacy Policy periodically. Any changes will be posted on this page.
+
+## 10. Contact
+
+If you have questions about this Privacy Policy, please contact us at:
+
+[SUPPORT_EMAIL](mailto:SUPPORT_EMAIL)
